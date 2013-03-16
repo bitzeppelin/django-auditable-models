@@ -1,0 +1,4 @@
+from auditable_models.models import AuditableModel
+from auditable_models.models import AuditableManager
+from auditable_models.models import AuditableGeoModel
+from auditable_models.models import AuditableGeoManager
